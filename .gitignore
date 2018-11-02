@@ -2,3 +2,11 @@
 !themes/
 !themes/civiproveg/
 !themes/civiproveg/*.*
+!uploads/
+!uploads/civicrm/
+!uploads/civicrm/ext/
+!uploads/civicrm/ext/org.civicrm.volunteer/
+!uploads/civicrm/ext/org.civicrm.volunteer/ang
+!uploads/civicrm/ext/org.civicrm.volunteer/ang/volunteer
+!uploads/civicrm/ext/org.civicrm.volunteer/ang/volunteer/VolOppsCtrl.html
+!uploads/civicrm/ext/org.civicrm.volunteer/ang/volunteer/VolOppsCtrl.js

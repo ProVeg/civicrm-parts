@@ -3,7 +3,7 @@ div .crm-vol-opp-search {
     top:0;*/
 }
 
-div .crm-vol-half-responsive.crm-vol-opp-cart {
+/* div .crm-vol-half-responsive.crm-vol-opp-cart {
     position:fixed !important;
     float:right !important;
     top:auto !important;
@@ -15,7 +15,7 @@ div .crm-vol-half-responsive.crm-vol-opp-cart {
     width:300px !important;
     box-shadow: none !important;
     opacity: 1 !important;
-}
+} */
 
 div .crm-vol-half-responsive.crm-vol-opp-cart.floating_cart h2 {
     display: block !important;
